@@ -1,4 +1,4 @@
-baseURL = "http://www.mgb.com"
+baseURL = "https://mgb247.github.io"
 title = "mgb"
 theme = "hugo-coder"
 languageCode = "en"
