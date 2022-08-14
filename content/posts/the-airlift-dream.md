@@ -5,11 +5,12 @@ title = "The Airlift Dream"
 description = ""
 slug = ""
 authors = ["Muhammad Ghayas Baig"]
-tags = ["Airlift", "Layoff"]
+tags = ["Airlift", "Layoffs", "Startups"]
 categories = []
 externalLink = ""
 series = []
 featuredImage = "/airlift.jpg"
+medium = "https://medium.com/@mgb247/the-airlift-dream-75780c02db81"
 +++
 
 On the 1st day of Eid, 10th of July, in the morning, I got a call from my manager.
