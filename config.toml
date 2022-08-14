@@ -12,7 +12,7 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Muhammad Ghayas Baig"
+author = "muhammad ghayas baig"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "MGB's personal website"
 keywords = "blog,software,engineer"
@@ -131,17 +131,17 @@ url = "mailto:ghayasbaig247@gmail.com"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "about"
 weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "blog"
 weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "contact me"
 weight = 5
 url = "contact/"
 
@@ -170,3 +170,8 @@ url = "projects/"
 name = "Contato"
 weight = 5
 url = "contact/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

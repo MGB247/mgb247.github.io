@@ -1,8 +1,8 @@
 +++
-title = "Contact"
+title = "contact"
 slug = "contact"
 +++
 
-Hi There!\
-Email me at ghayasbaig247@gmail.com\
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ghayas-baig-6b82a01a5/)
+hi there!\
+email me at ghayasbaig247@gmail.com\
+connect with me on [LinkedIn](https://www.linkedin.com/in/ghayas-baig-6b82a01a5/)
