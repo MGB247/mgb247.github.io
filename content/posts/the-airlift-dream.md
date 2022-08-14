@@ -9,13 +9,14 @@ tags = ["Airlift", "Layoff"]
 categories = []
 externalLink = ""
 series = []
+featuredImage = "/airlift.jpg"
 +++
 
 On the 1st day of Eid, 10th of July, in the morning, I got a call from my manager.
 
 He asked me to cancel all the orders except the Eid ones. I thought that maybe we got more orders than we were expecting. Right after that call, I got another call from our Platform Integrity Lead, he told me that the Eid orders were not landing on the warehouses and shared a video call link to join.\
 I joined the link. Our Senior Architect, my manager and teammates from the operations team were already there. The orders were not landing.\
-We started triaging the issue. While doing so, my manager called me separately and asked me to call him later when the issue is fixed as he would like to discuss *something important. *
+We started triaging the issue. While doing so, my manager called me separately and asked me to call him later when the issue is fixed as he would like to discuss *something important.*
 
 My first thought was:\
 Maybe I did something wrong
@@ -50,7 +51,7 @@ Most people will tell you that:
 
 That's all true. We had everything of our own.
 
-*But above all, what Airlift was, was actually a phenomenon of* ***Culture****.*
+*But above all, what Airlift was, was actually a phenomenon of ***Culture***.*
 
 A culture where:
 
